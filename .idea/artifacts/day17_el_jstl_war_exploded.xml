@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="day17_el&amp;jstl" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../day17_el&amp;jstl/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day17_el&amp;jstl/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" />
+        </element>
       </element>
     </root>
   </artifact>

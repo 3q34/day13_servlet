@@ -6,6 +6,19 @@
         <element id="directory" name="classes">
           <element id="module-output" name="day14_servlet&amp;http&amp;request" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/druid-1.0.9.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/c3p0-0.9.5.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/commons-beanutils-1.9.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/spring-tx-5.2.0.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/spring-core-5.2.0.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/spring-jdbc-5.2.0.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/spring-beans-5.2.0.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/mchange-commons-java-0.2.15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/web/WEB-INF/lib/mysql-connector-java-5.1.37.jar" />
+        </element>
       </element>
       <element id="javaee-facet-resources" facet="day14_servlet&amp;http&amp;request/web/Web" />
     </root>
