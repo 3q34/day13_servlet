@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day13_servlet.iml" filepath="$PROJECT_DIR$/day13_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/day14_servlet&amp;http&amp;request.iml" filepath="$PROJECT_DIR$/../day14_servlet&amp;http&amp;request/day14_servlet&amp;http&amp;request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day15_response/day15_response.iml" filepath="$PROJECT_DIR$/../day15_response/day15_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day16_cookie&amp;session/day16_cookie&amp;session.iml" filepath="$PROJECT_DIR$/../day16_cookie&amp;session/day16_cookie&amp;session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day17_el&amp;jstl/day17_el&amp;jstl.iml" filepath="$PROJECT_DIR$/../day17_el&amp;jstl/day17_el&amp;jstl.iml" />
+    </modules>
+  </component>
+</project>
